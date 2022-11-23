@@ -1,5 +1,20 @@
 # h4 BitCoin intro
 
+In the chapter Cryptographic Hash Functions of Bitcoin and Cryptocurrency Technologies (https://www.coursera.org/learn/cryptocurrency/home/week/1) 3 critical for cryptocurrency properties are listed. They are:
+
+Collision-free or there is no real possibility with current coptuting resources to get the same hash value from 2 different messages. 
+
+Next property is hiding or one-way hash is that there is no way to get original input from hash value. 
+
+Above 2 properties allows us to verify that data are secured and weren't changed, and sender of the message is valid
+
+Puzzle-friendly, that it is very difficult to get a hash with particular value. 
+
+Electronic coin is defined as a chain of digital signatures by Nakamoto Satoshi (https://bitcoin.org/bitcoin.pdf) All transctions are digitally verified by a payer by signing a hash of the previous transaction and the public key of the next owner and adding this data to the end of the coin. Receiver can verify the signature and that data a valid and not changed or chain of ownership.
+
+One of the isue that cryptocurrency should solve is double-spending. BitCoin solves this issue by giving full history of changes to all participants. 
+
+
 A) How much is one BitCoin (BTC) worth now? Using historical BTC course, show that you could have lost a lot of money investing in BTC. Also show that you could have won a lot of money with BTC.
 
 The current price of BitCoin is 15 672,03EUR checked 22.11.2022 (https://www.google.com/finance/quote/BTC-EUR)
