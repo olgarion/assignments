@@ -19,6 +19,7 @@ A) How much is one BitCoin (BTC) worth now? Using historical BTC course, show th
 
 The current price of BitCoin is 15 672,03EUR checked 22.11.2022 (https://www.google.com/finance/quote/BTC-EUR)
 (https://coinmarketcap.com/currencies/bitcoin/)
+
 Buying BTC 5 years ago and selling now would bring us profit 70%:
 
 ![](Capture.JPG)
