@@ -41,6 +41,7 @@ Tether (CRYPTO:USDT) - A stablecoin that follows the U.S. dollar and the cryptoc
 i) Voluntary: When do you have to pay taxes for BitCoin in Finland? (If you want, you can instead check taxation in another country)
 
 My undestnding is that tax on cryptocurrency follows the tax on capital. Capital tax on profit to be paid when cryptocurrency is sold or exchanged.
+Update after Mikko's presentation: Taxes from all crypto, on top to pay taxes on profit during selling. Tax deduction for HW and equipment
 
 
 
