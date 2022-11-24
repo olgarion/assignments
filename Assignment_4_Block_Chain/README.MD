@@ -18,7 +18,7 @@ One of the isue that cryptocurrency should solve is double-spending. BitCoin sol
 A) How much is one BitCoin (BTC) worth now? Using historical BTC course, show that you could have lost a lot of money investing in BTC. Also show that you could have won a lot of money with BTC.
 
 The current price of BitCoin is 15 672,03EUR checked 22.11.2022 (https://www.google.com/finance/quote/BTC-EUR)
-
+(https://coinmarketcap.com/currencies/bitcoin/)
 Buying BTC 5 years ago and selling now would bring us profit 70%:
 
 ![](Capture.JPG)
