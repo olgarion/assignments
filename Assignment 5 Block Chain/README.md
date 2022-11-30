@@ -41,6 +41,9 @@ Total Output 0.04658008 BTC
 
 Next day I checked this transaction and I can see that it was confirmed. Ths is the update: (https://www.blockchain.com/btc/tx/43e4b6f8d660734dcc17496bb022ff0770aa9be7af2655468c11bc097294e12b)
 *'This transaction was first broadcast to the Bitcoin network on November 29, 2022 at 6:09 PM GMT.  The transaction currently has **92 confirmations** on the network.  At the time of this transaction, 0.04658008 BTC was sent with a value of $762.67. The current value of this transaction is now $786.85.'*
+This are details from the next day after the transaction was confirmed. Where we see how much was transferred, how much received and the Fee for thevalidation:
+
+![BTC](BTC_transaction.png)
 
 ## b) Dashboard of Doom. Look at and comment Miko Hirvelä's crypto mining dashboard. Explain the current state of cryptocurrency mining. Relate your explanation to Miko's presentation and dashboard. What possible scenarios do you see for cryptocurrencies in the future?
 
