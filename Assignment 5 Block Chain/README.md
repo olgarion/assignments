@@ -65,3 +65,9 @@ Combined 24H: 1.17 GH
 Then the dashboard is updating with the current status of the HW that Mikko is using. He gets current Hashrate and measure the temperature. The rig 1 showed hashrate <100 MH, as based on Mikko's explanaition something there worong:)
 
 ![image](Mikko_dashboard.png)
+
+What possible scenarios do you see for cryptocurrencies in the future? I understand that cryptocurrency is still in its developing phase, and despite on big flactuations on the market, the interest to mining and cryptocurrencies will remain high. Based on Mikko's view, people that perform mining are more investors in the future, and they invest their computer power to different promicing cryptocurrencies.
+
+However, I see this decentralized and anonimous transactions are perfect way for dirty money transactions, and possible money laundry. This means that countries will try to regulate and control them more. Additionally, all countries would like to make tax regulation for mining and exchange more strict and transparent, that might reduce some level of anonimity in the future. 
+
+Interesting what will happen when computers' power will grow dramatically, and we will start using quantum computing more widely. What will happen if bad guys will acquire this kind of equipment and will try to crash cryptocurrency market..
