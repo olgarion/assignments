@@ -81,6 +81,13 @@ forum
 As I described above there are several layers of encryption happens. The first relay knows where is the message comes from but doesn't know the final destination, the middle relay knows the entry node location and the destination to the exit node, and as the results the exit node knows final destination and the middle node location. As the reslt when request reach the final web site, it gets information about exit node location only, and not seen where the original request came from, As the result none of the participants know full end to end route. More users are using Tor is better anonimity of the browser.
 
 
+## d) What kind of the treath models could TOR fit?
+
+*The anonymity of a Tor circuit is compromised if the adversary canwatch the two ends, the entry and exit, of the circuit.* (https://web-p-ebscohost-com.ezproxy.haaga-helia.fi/ehost/pdfviewer/pdfviewer?vid=0&sid=8ad0e8f2-a767-494d-aa63-1d37e537d9e1%40redis)
+
+One of the ways where TOR can be used as part of attack is that it can be used for sending threatining or blackmailing emails and used for getting confidential information.
+
+
 
 
 
