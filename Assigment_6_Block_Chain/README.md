@@ -51,6 +51,36 @@ Most Pluggable Transports, such as obfs4, rely on the use of "bridge" relays. Li
 
 Using bridges in combination with pluggable transports helps to conceal the fact that you are using Tor, but may slow down the connection compared to using ordinary Tor relays.
 ```
+Connected
+
+The search engine that the browser uses is DuckDuckGo
+
+## b) Browse TOR network, find, take screenshots and comment
+
+In this section I display the circuits during comnnection to search, forum, marketplace. The circuits show all participants in the routing with their IPs.
+
+search engine for onion sites
+
+![search circuit](search.png)
+
+marketplace
+
+![marketplace circuit](marketplace.png)
+
+fraud
+
+![marketplace circuit](fraud.png)
+
+forum
+
+![marketplace circuit](forum.png)
+
+
+## c) In your own words, how does anonymity work in TOR? (e.g. how does it use: public keys, encryption, what algorithms?)
+
+As I described above there are several layers of encryption happens. The first relay knows where is the message comes from but doesn't know the final destination, the middle relay knows the entry node location and the destination to the exit node, and as the results the exit node knows final destination and the middle node location. As the reslt when request reach the final web site, it gets information about exit node location only, and not seen where the original request came from, As the result none of the participants know full end to end route. More users are using Tor is better anonimity of the browser.
+
+
 
 
 
