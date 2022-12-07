@@ -80,6 +80,12 @@ forum
 
 As I described above there are several layers of encryption happens. The first relay knows where is the message comes from but doesn't know the final destination, the middle relay knows the entry node location and the destination to the exit node, and as the results the exit node knows final destination and the middle node location. As the reslt when request reach the final web site, it gets information about exit node location only, and not seen where the original request came from, As the result none of the participants know full end to end route. More users are using Tor is better anonimity of the browser.
 
+Tor does this by creating “an overlay network in which each node maintains a Transport Layer Security (TLS) connection to every other node.” (https://medium.com/systems-and-network-security/understanding-the-tor-network-b9bf5ffca226)
+
+*To encrypt data, Tor provides RSA, DES, and RC4.* (https://medium.com/systems-and-network-security/understanding-the-tor-network-b9bf5ffca226)
+
+My understanding that public key of the receivers is used on each phase of the encryption when traffic info to be encrypted.
+
 
 ## d) What kind of the treath models could TOR fit?
 
