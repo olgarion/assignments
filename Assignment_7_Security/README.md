@@ -1,4 +1,5 @@
 # HELSEC
+(https://helsec.fi/)
 
 Two topics were presented by Henrik Kärkkänen about IT Journalism and by Samuli Järvinen about Cognitive warfare.
 
